@@ -7,7 +7,7 @@ I am a 19-year-old Frontend Developer based in India, skilled in HTML, CSS & Jav
 - 🌱 I'm currently learning React.js/Next.js
 - 💻 I have worked with **GSAP**, Locomotive Js and many other Js libraries
 - ✨ I'm also a **UI/UX Designer** who believes in bridging **Design & Development** and makes fascinating web projects
-- 🫱🏻‍🫲🏻 You can find me on *[Instagram](instagram.com/TECHIEJK)* & *[Linkedin](linkedin.com/in/jatin-kaushik-jk25)*
+- 🫱🏻‍🫲🏻 You can find me on *[Instagram](instagram.com/jatinkaushik.jk)* & *[Linkedin](linkedin.com/in/jatinkaushik-jk)*
 - 🥅 2024 Goals: Learning Fullstack Web Development
 - ⚡ Fun facts: I love to exlore new Designs, watch movies and Travelling
 
