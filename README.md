@@ -27,8 +27,8 @@ I believe in the synergy between **Design & Development**. My goal is to create 
 - Movies and traveling fuel my creativity and keep me inspired.
 
 ### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Instagram](https://www.instagram.com/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/jatinkaushik-jk)
+- [Instagram](https://www.instagram.com/jatinkaushik.jk)
 
 ---
 
