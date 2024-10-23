@@ -30,6 +30,22 @@ I believe in the synergy between **Design & Development**. My goal is to create 
 - [LinkedIn](https://www.linkedin.com/in/jatinkaushik-jk)
 - [Instagram](https://www.instagram.com/jatinkaushik.jk)
 
+## My Badges 🪶
+<div>
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+<img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" width="100px" height="100px" />
+  <!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
+</a>
+</div>
+
 ---
 
 I've come a long way in web development, transitioning from a beginner to an intermediate developer. Along the way, I've deepened my understanding of **OOPs**, **DSA**, and solved complex logical challenges. My GitHub is home to a diverse range of projects, reflecting my dedication and passion for continuous learning.
