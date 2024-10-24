@@ -2,17 +2,18 @@
 
 ### 🚀 Frontend <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> | UI/UX Designer | Tech Enthusiast
 
-I'm a passionate Frontend Developer from India, with a strong foundation in **HTML, CSS, and JavaScript**. My journey in web development has taken me from beginner to intermediate, and I'm continuously striving to learn and grow.
+I'm a passionate Frontend Developer from India, with a strong foundation in **Frontend Development**. My journey in web development has taken me from beginner to intermediate, and I'm continuously striving to learn and grow and taking this to advance level.
 
 ### 🌱 Currently Exploring
-- **React.js** and **Next.js** to build dynamic and responsive web applications.
+- **Next.js** to build dynamic and responsive web applications.
+- **Gen AI** for automation and artificial intelligence integration in my projects.
 - Advanced **JavaScript libraries** like **GSAP** and **Locomotive.js** to create smooth, interactive experiences.
 
 ### 🎨 Design Philosophy
 I believe in the synergy between **Design & Development**. My goal is to create web projects that are not only functional but also visually appealing, bridging the gap between form and function. As a **UI/UX Designer**, I craft user-centric designs that enhance usability and user satisfaction.
 
 ### 🛠️ Skills & Tools
-- **Languages:** `HTML` `CSS` `JavaScript` `C/C++`
+- **Languages:** `HTML` `CSS` `JavaScript` `TypeScript` `C/C++`
 - **Frontend Development:** `React.js` `Tailwind CSS` `GSAP`
 - **Backend Development:** `Node.js` `Express.js` `MongoDB`
 - **Design & Prototyping Tools:** `Figma` `Adobe Photoshop` `Adobe Illustrator`
@@ -20,7 +21,7 @@ I believe in the synergy between **Design & Development**. My goal is to create 
 
 ### 📈 2024 Goals
 - Master **Fullstack Web Development** and contribute to open-source projects.
-- Continue exploring new designs, watching movies for creative inspiration, and traveling to broaden my horizons.
+- Continue exploring new designs and technologies, watching movies for creative inspiration, and traveling to broaden my horizons.
 
 ### ⚡ Fun Facts
 - I'm a design explorer, always on the lookout for new trends and innovative ideas.
