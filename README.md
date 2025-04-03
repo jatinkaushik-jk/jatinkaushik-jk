@@ -13,13 +13,13 @@ I'm a passionate Frontend Developer from India, with a strong foundation in **Fr
 I believe in the synergy between **Design & Development**. My goal is to create web projects that are not only functional but also visually appealing, bridging the gap between form and function. As a **UI/UX Designer**, I craft user-centric designs that enhance usability and user satisfaction.
 
 ### 🛠️ Skills & Tools
-- **Languages:** `HTML` `CSS` `JavaScript` `TypeScript` `C/C++`
-- **Frontend Development:** `React.js` `Tailwind CSS` `GSAP`
+- **Languages:** `HTML` `CSS` `JavaScript` `TypeScript` `Java` `C/C++`
+- **Frontend Development:** `Next.js` `React.js` `Tailwind CSS` `GSAP`
 - **Backend Development:** `Node.js` `Express.js` `MongoDB`
 - **Design & Prototyping Tools:** `Figma` `Adobe Photoshop` `Adobe Illustrator`
 - **Version Control:** `Git` `GitHub`
 
-### 📈 2024 Goals
+### 📈 2025 Goals
 - Master **Fullstack Web Development** and contribute to open-source projects.
 - Continue exploring new designs and technologies, watching movies for creative inspiration, and traveling to broaden my horizons.
 
@@ -30,6 +30,7 @@ I believe in the synergy between **Design & Development**. My goal is to create 
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jatinkaushik-jk)
 - [Instagram](https://www.instagram.com/jatinkaushik.jk)
+- [Behance](https://www.behance.net/jatinkaushik.jk)
 
 ## My Badges 🪶
 <div>
@@ -49,6 +50,6 @@ I believe in the synergy between **Design & Development**. My goal is to create 
 
 ---
 
-I've come a long way in web development, transitioning from a beginner to an intermediate developer. Along the way, I've deepened my understanding of **OOPs**, **DSA**, and solved complex logical challenges. My GitHub is home to a diverse range of projects, reflecting my dedication and passion for continuous learning.
+I've come a long way in web development, transitioning from a beginner to an intermediate developer. Along the way, I've deepened my understanding of **OOPs**, **DSA**, **Database Management System** and solved complex logical challenges. My GitHub is home to a diverse range of projects, reflecting my dedication and passion for continuous learning.
 
 Feel free to explore my repositories and reach out if you have any questions or suggestions. Let's connect and collaborate on fascinating web projects!
