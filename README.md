@@ -14,13 +14,14 @@ I believe in the synergy between **Design & Development**. My goal is to create 
 
 ### 🛠️ Skills & Tools
 - **Languages:** `HTML` `CSS` `JavaScript` `TypeScript` `Java` `C/C++`
-- **Frontend Development:** `Next.js` `React.js` `Tailwind CSS` `GSAP`
-- **Backend Development:** `Node.js` `Express.js` `MongoDB`
+- **Frontend Development:** `Next.js` `React.js` `Tailwind CSS` `GSAP` `Framer Motion`
+- **Backend Development:** `Node.js` `Express.js` `MongoDB` `Docker`
+- **AI:** `Gemini AI` `LangChain`
 - **Design & Prototyping Tools:** `Figma` `Adobe Photoshop` `Adobe Illustrator`
 - **Version Control:** `Git` `GitHub`
 
 ### 📈 2025 Goals
-- Master **Fullstack Web Development** and contribute to open-source projects.
+- Master **Fullstack Web Development** and contribute to **open-source projects**.
 - Continue exploring new designs and technologies, watching movies for creative inspiration, and traveling to broaden my horizons.
 
 ### ⚡ Fun Facts
@@ -28,6 +29,7 @@ I believe in the synergy between **Design & Development**. My goal is to create 
 - Movies and traveling fuel my creativity and keep me inspired.
 
 ### 🌐 Connect with Me
+- [Portfolio](https://www.jatinkaushik.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/jatinkaushik-jk)
 - [Instagram](https://www.instagram.com/jatinkaushik.jk)
 - [Behance](https://www.behance.net/jatinkaushik.jk)
