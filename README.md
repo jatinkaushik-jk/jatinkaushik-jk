@@ -6,8 +6,8 @@ I'm a passionate Frontend Developer from India, with a strong foundation in **Fr
 
 ### 🌱 Currently Exploring
 - **Next.js** to build dynamic and responsive web applications.
-- **Gen AI** for automation and artificial intelligence integration in my projects.
-- Advanced **JavaScript libraries** like **GSAP** and **Locomotive.js** to create smooth, interactive experiences.
+- **Gen AI** and **AI Agents** for automation and artificial intelligence integration in my projects.
+- Advanced **JavaScript libraries** like **GSAP**, **Framer Motion** and **Locomotive.js** to create smooth, interactive experiences.
 
 ### 🎨 Design Philosophy
 I believe in the synergy between **Design & Development**. My goal is to create web projects that are not only functional but also visually appealing, bridging the gap between form and function. As a **UI/UX Designer**, I craft user-centric designs that enhance usability and user satisfaction.
@@ -44,9 +44,9 @@ I believe in the synergy between **Design & Development**. My goal is to create 
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
- <!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
 </a>
 </div>
 
